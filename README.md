@@ -1,51 +1,38 @@
-# 👋 Hi there, I'm Bhavya Sri
-
-🎓 I'm a 3rd year Computer Science Engineering student with a passion for building things with code — from responsive web interfaces to smart backend systems.  
-🌱 Currently focused on improving my skills in **full-stack development**, **data structures & algorithms**, and **software engineering best practices**.
-
----
-
-## 💻 Tech Stack
-
-- 🌐 **Frontend**: HTML, CSS, JavaScript, React
-- 🖥️ **Backend**: Node.js, Express
-- 🗄️ **Databases**: MySQL, MongoDB
-- 🔧 **Tools**: Git, GitHub, VS Code, Postman
-- 📚 **CS Fundamentals**: Data Structures, Algorithms, OOP, DBMS, OS
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7931E&width=435&lines=Hi%2C+I'm+Bhavya+Sri!;CSE+Student+%7C+Full+Stack+Learner;Passionate+about+Tech+%26+Code" alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🚀 Projects
-
-Here are a few things I've built recently:
-
-- **Simple Calculator** – A basic calculator with clean UI using HTML/CSS/JS  
-- **Responsive Portfolio** – Personal portfolio to showcase my projects  
-- **Student Result Portal** – Full-stack app to manage and view student results
-
-> 📌 More projects available in the repositories section!
+### 👩‍💻 About Me
+🎓 I'm a **3rd Year CSE Student** from India  
+💡 Curious about full-stack development & AI  
+🔭 Currently learning **MERN Stack** and **Data Structures**  
+⚡ Love building clean UIs and solving logical problems  
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Bhavya Sri's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-> Replace `bhavyasri1007` with your actual GitHub username to make the stats work properly.
+### 🛠️ Tech Stack
+```html
+Languages:    C • C++ • JavaScript • HTML5 • CSS3  
+Frameworks:   React • Node.js • Express.js  
+Tools:        Git • GitHub • VS Code • Postman  
+Database:     MongoDB • MySQL
 
 ---
 
-## 📫 Let's Connect!
-
-- 📧 Email: yeletibhavyasri@gmail.com 
-
+### ✅ Steps to Use:
+1. Replace:
+   - `bhavyasri1007` with your real GitHub username.
+  
+2. Create a repo named exactly like your GitHub username.
+3. Add a `README.md` file and paste this content.
 
 ---
 
-### 🔭 Always curious, always learning...
+### 💫 Optional Enhancements:
+- Add a custom **GIF of your projects** or **Lottie animations**.
+- Include **contribution graph** like [`github-profile-trophy`](https://github.com/ryo-ma/github-profile-trophy).
 
-Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to collaborate. 😊
+Would you like help with **adding a portfolio badge** or **animated project section**?
+
